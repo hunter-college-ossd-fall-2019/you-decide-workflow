@@ -18,5 +18,11 @@ No other issues
 
 Member 2 
 
-Had problems with simple bash commamnds. Did not know to to exit out of a directory. Instructed him to us ```cd ..``` and everything was fine.
+Had problems with simple bash commamnds. Did not know to to exit out of a directory. Instructed him to use ```cd ..``` and everything was fine.
 No other issues
+
+### Step 4
+No issues
+
+### Step 5
+
