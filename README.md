@@ -6,6 +6,8 @@
 2. hjiang4332 - Contributor
 3. shakeel30 - Contributor
 
+## Git Workflow Steps
+
 ### Step 2
 No problems
 
@@ -22,7 +24,8 @@ Had problems with simple bash commamnds. Did not know to to exit out of a direct
 No other issues
 
 ### Step 4
-No issues
+No issues with adding remote to upstream
 
 ### Step 5
 
+No issues with creating issues
