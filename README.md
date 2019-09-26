@@ -10,5 +10,13 @@
 No problems
 
 ### Step 3
-Memeber 3 learned how to make a remote to the upstream for future pushes to upstream.
+
+Memeber 3 
+
+learned how to make a remote to the upstream for future pushes to upstream.
+No other issues
+
+Member 2 
+
+Had problems with simple bash commamnds. Did not know to to exit out of a directory. Instructed him to us ```cd ..``` and everything was fine.
 No other issues
